@@ -77,7 +77,7 @@ src/
   
 ## Credits
 
-Big shoutout to [TechPrep](https://www.youtube.com/@TechPrep) for the inspiration!
+Big shoutout to [TechPrep](https://www.youtube.com/@TechPrepYT) for the inspiration!
 
 ## License
 
